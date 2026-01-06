@@ -1,0 +1,5 @@
+       istilah di git
+- repo     = folder 
+- commit   = rekaman perubahan
+- hash     = penanda unik pada commit
+- checkout = berpindah antar commit
