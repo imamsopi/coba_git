@@ -3,3 +3,5 @@
 - commit   = rekaman perubahan
 - hash     = penanda unik pada commit
 - checkout = berpindah antar commit
+- branch   = cabang bebas dari commit
+- merge    = menghubungkan branch
